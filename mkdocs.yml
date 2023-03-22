@@ -1,0 +1,6 @@
+site_name: Run:ai
+theme:
+  name: material
+extra:
+  version:
+    provider: mike
